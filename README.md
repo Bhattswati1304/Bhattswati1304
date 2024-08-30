@@ -1,4 +1,9 @@
-### Hi there👋
+### 👋Hello! I'm SWATI BHATT
+
+Recent Bca Graduate|Aspring Developer
+
+I'm passionate about turning ideas into reality through code. With a solid foundation in computer application, I'm eager to dive into the world of software development , contribute to exciting projects, and continously learn new technologies.
+
 <img align="right" scr="https://visitor-badge.laobi.icu/badge?page_id=Bhattswati1304.Bhattswati1304"/>
 
 <h1 align="center">
