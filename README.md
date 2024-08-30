@@ -1,4 +1,5 @@
-img align="right" scr="https://visitor-badge.laobi.icu/badge?page_id=Bhattswati1304.Bhattswati1304"/>
+### Hi there👋
+<img align="right" scr="https://visitor-badge.laobi.icu/badge?page_id=Bhattswati1304.Bhattswati1304"/>
 
 <h1 align="center">
  <a href="https://git.io/typing-svg">
